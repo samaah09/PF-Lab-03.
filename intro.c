@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-// Main function to run the program
 int main() {
-    // Code will be added here later
+    printf("Welcome to Programming Fundamentals\n");
+    printf("Spring 2026\n");
     return 0;
 }
